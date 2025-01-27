@@ -250,7 +250,10 @@ class _ProductDetailScreenState extends State<ProductDetailScreen>
         action: SnackBarAction(
           label: 'UNDO',
           onPressed: () {
-            cart.removeItem(widget.name);
+            final cartItems = cart.items;
+            if (cartItems.isNotEmpty) {
+              cart.removeItem(cartItems.last.id);
+            }
           },
         ),
       ),
