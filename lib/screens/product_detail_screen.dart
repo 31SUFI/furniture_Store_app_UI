@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import '../models/cart_item.dart';
-import '../screens/cart_screen.dart';
+import 'package:furniture_store_app/screens/cart_screen.dart';
 import 'package:provider/provider.dart';
 import '../providers/cart_provider.dart';
 import '../animations/fade_slide_animation.dart';
