@@ -10,8 +10,8 @@ A modern Flutter e-commerce application for furniture shopping with a clean, ani
 
 ## App Demo 🎥
 
-[Watch the Demo Video on Google Drive](https://drive.google.com/your-video-link)  
-*(Replace this link with your actual Google Drive video link.)*
+[Watch the Demo Video on Google Drive](https://drive.google.com/file/d/10T6Rk-02wvmAKu86f6_tBFu9Z92gxAvK/view?usp=drivesdk)  
+
 
 ---
 
