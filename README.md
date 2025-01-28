@@ -1,6 +1,3 @@
-Here's a polished and detailed version of your README for the Furniture Store App:
-
----
 
 # Furniture Store App 🛋️
 
