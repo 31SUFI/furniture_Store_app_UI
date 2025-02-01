@@ -85,6 +85,7 @@ flutter run
 
 ![Furniture Store App Screenshot](https://github.com/user-attachments/assets/e82c07f6-19e0-4b49-9020-c7903d6a39b8)
 
+Check our their design on [Instagram](https://www.instagram.com/p/DDYSRlfTeJS/?igsh=MXN4dnlsemJmcjJocw==)
 ---
 
 ## Dependencies 🧩
